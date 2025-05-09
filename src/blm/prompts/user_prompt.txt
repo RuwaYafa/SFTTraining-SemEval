@@ -1,0 +1,1 @@
+What is the relation type between tail entity and head entity in the following sentence: {sentence}?
